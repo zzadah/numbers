@@ -1,10 +1,10 @@
 # README for Numbers Script
 
 ## Author Information
-- **Name:** [Your Full Name]  
-- **Course:** [Course Number and Name]  
+- **Name:** [Zoe Zadah]  
+- **Course:** [CPSC 298]  
 - **Assignment:** Numbers Script (Odd/Even Classification)  
-- **Date:** [Date of Completion]  
+- **Date:** [1/20/26]  
 
 ## Program Description
 This script prompts the user to enter a positive integer and then prints all integers from **1** up to and including that number. Each number is labeled as **“Odd”** or **“Even.”**  
@@ -78,8 +78,12 @@ You should also verify:
 ## Challenges and Solutions
 [Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding regular expressions, or Git workflow problems.]
 
+One challenge was the whitespace. I put a space in between - and eq and my code was not working due to this.
+
 ## Resources
 [List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
+
+I used google AI to explain the error code after I ran shellcheck.
 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
